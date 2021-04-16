@@ -8,7 +8,7 @@ A mock up webpage with refactored code to practice optimization and establish be
 
 **Link**
 https://purpleamaranth.github.io/code-refactoring-02-homework/
-------------------------------------------------
+
 
 
 ## Original Task Requirements
