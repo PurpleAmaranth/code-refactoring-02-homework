@@ -1,4 +1,18 @@
-# 01 HTML, CSS, and Git: Code Refactor
+## 02-Homework
+
+**Description**
+A mock up webpage with refactored code to practice optimization and establish better coding practices including accessibilty considerations.
+
+**Screenshot**
+![02-homework-horiseon-website-mock-up](./assets/images/02-homework-horiseon-website-mock-up.jpg
+
+**Link**
+https://purpleamaranth.github.io/code-refactoring-02-homework/
+
+
+**Original Task Requirements**
+
+ 01 HTML, CSS, and Git: Code Refactor
 
 ## Your Task
 
